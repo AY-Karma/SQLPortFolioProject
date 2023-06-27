@@ -19,6 +19,7 @@ WEBSITE :  https://ourworldindata.org/covid-deaths
 
 Contact
 If you have any questions or suggestions regarding this project, please feel free to contact me:
+
 Name: [Ayush Bafna]
 GitHub: [AY-Karma]
 
